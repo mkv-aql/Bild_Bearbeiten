@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 .idea/AutoAusfüllen.iml
 .idea/misc.xml
+.idea/Bild_Bearbeiten.iml
+.idea/misc.xml
