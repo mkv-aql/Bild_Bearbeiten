@@ -160,5 +160,9 @@ cython_debug/
 #.idea/
 .idea/AutoAusfüllen.iml
 .idea/misc.xml
+<<<<<<< Updated upstream
 .idea/Bild_Bearbeiten.iml
 .idea/misc.xml
+=======
+.idea/workspace.xml
+>>>>>>> Stashed changes
