@@ -1,0 +1,7 @@
+bbox,Namen,Confidence Level,Bildname
+"[[np.int32(201), np.int32(147)], [np.int32(291), np.int32(147)], [np.int32(291), np.int32(191)], [np.int32(201), np.int32(191)]]",15 %,0.8960570415005904,
+"[[np.int32(168), np.int32(188)], [np.int32(322), np.int32(188)], [np.int32(322), np.int32(212)], [np.int32(168), np.int32(212)]]",ONLINE-RABATT,0.9184142739850961,
+"[[np.int32(245), np.int32(219)], [np.int32(299), np.int32(219)], [np.int32(299), np.int32(233)], [np.int32(245), np.int32(233)]]",Produkie,0.29656911627779375,
+"[[np.int32(187), np.int32(233)], [np.int32(223), np.int32(233)], [np.int32(223), np.int32(249)], [np.int32(187), np.int32(249)]]",ab 30,0.21479295718542432,
+"[[np.int32(235), np.int32(233)], [np.int32(303), np.int32(233)], [np.int32(303), np.int32(247)], [np.int32(235), np.int32(247)]]",Destollvori,0.28421496132207924,
+"[[np.int32(194), np.int32(293)], [np.int32(294), np.int32(293)], [np.int32(294), np.int32(319)], [np.int32(194), np.int32(319)]]",DUGCLAS,0.26169255079242854,

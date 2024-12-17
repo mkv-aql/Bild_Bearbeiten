@@ -1,0 +1,9 @@
+bbox,Namen,Confidence Level,Bildname
+"[[np.int32(111), np.int32(99)], [np.int32(151), np.int32(99)], [np.int32(151), np.int32(115)], [np.int32(111), np.int32(115)]]",Ciick,0.46438228778404744,
+"[[np.int32(177), np.int32(99)], [np.int32(239), np.int32(99)], [np.int32(239), np.int32(115)], [np.int32(177), np.int32(115)]]",capture,0.7936345873714844,
+"[[np.int32(161), np.int32(109)], [np.int32(255), np.int32(109)], [np.int32(255), np.int32(153)], [np.int32(161), np.int32(153)]]",15 %,0.8260211584217639,
+"[[np.int32(122), np.int32(150)], [np.int32(288), np.int32(150)], [np.int32(288), np.int32(176)], [np.int32(122), np.int32(176)]]",ONLINE-RABATT,0.8602773545272504,
+"[[np.int32(171), np.int32(182)], [np.int32(263), np.int32(182)], [np.int32(263), np.int32(200)], [np.int32(171), np.int32(200)]]",Yhele Produkie,0.26051887936950585,
+"[[np.int32(143), np.int32(197)], [np.int32(183), np.int32(197)], [np.int32(183), np.int32(213)], [np.int32(143), np.int32(213)]]",ab 30,0.2961975359934064,
+"[[np.int32(194), np.int32(198)], [np.int32(265), np.int32(198)], [np.int32(265), np.int32(215)], [np.int32(194), np.int32(215)]]",Bestellwert,0.6107434081992995,
+"[[np.int32(150), np.int32(262)], [np.int32(258), np.int32(262)], [np.int32(258), np.int32(292)], [np.int32(150), np.int32(292)]]",DUGLAS,0.9057369793029492,
